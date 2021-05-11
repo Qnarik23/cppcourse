@@ -1,0 +1,36 @@
+// 1...
+// int n, sum = 0;
+// cin >> n;
+
+// for(int i = 1; i <= n; i++){
+//   sum += i;
+// }
+
+// cout << sum;
+
+
+// 2...
+// int n, sum = 0;
+// cin >> n;
+// for (int i = 0; i <= n; i+=2){
+//   sum += i;
+// }
+// cout << sum;
+
+
+// 3...
+int n, sum = 0;
+cin >> n;
+for (int i = 1; i <= n; i+=2){
+  sum += i;
+}
+cout << sum;
+
+
+
+
+
+
+return 0;
+}
+
