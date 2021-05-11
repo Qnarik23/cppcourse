@@ -1,4 +1,4 @@
-// 1...
+// 1... 1-ic n tveri gumar...
 // int n, sum = 0;
 // cin >> n;
 
@@ -9,7 +9,7 @@
 // cout << sum;
 
 
-// 2...
+// 2... 1-ic n zuyg tveri gumar...
 // int n, sum = 0;
 // cin >> n;
 // for (int i = 0; i <= n; i+=2){
@@ -18,7 +18,7 @@
 // cout << sum;
 
 
-// 3...
+// 3... 1-ic n kent tveri gumar...
 int n, sum = 0;
 cin >> n;
 for (int i = 1; i <= n; i+=2){
@@ -26,6 +26,8 @@ for (int i = 1; i <= n; i+=2){
 }
 cout << sum;
 
+
+4... 1-ic n , 3-i bajanvox ev 1 mnacordov tveri gumar...
 
 
 
